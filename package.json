@@ -1,0 +1,15 @@
+{
+  "name": "tiny-vm",
+  "version": "1.0.0",
+  "description": "tiny mvvm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mvvm"
+  ],
+  "author": "John",
+  "license": "MIT",
+  "dependencies": {}
+}
